@@ -14,3 +14,7 @@ hanoi(3,"Src","Aux","Dst");
 // move disc 1 from Aux to Src
 // move disc 2 from Aux to Dst
 // move disc 1 from Src to Dst
+
+
+
+
